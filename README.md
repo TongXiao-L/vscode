@@ -3,7 +3,7 @@ My vscode settings
 ---
 ## Plugins
 - Theme: [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
-- Icon: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- Icon: [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
 - AI: [CodeGeeX](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex)
 - Git: [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - KeyBindings: [IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
